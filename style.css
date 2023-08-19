@@ -1,0 +1,45 @@
+body {
+	background: rgb(147, 147, 147);
+}
+
+#btn-yt {
+	cursor: pointer;
+	background: rgb(230, 117, 117);
+	transition: 0.4s;
+	width: 100px;
+	height: 50px;
+	border-radius: 10px;
+	color: black;
+}
+
+#btn-yt:hover {
+	background: rgb(180, 0, 0);
+	color: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+.joinyt {
+	text-align: center;
+}
+
+.join-ds {
+	text-align: center;
+}
+
+#btn-ds {
+	cursor: pointer;
+	background: rgb(159, 126, 212);
+	transition: 0.4s;
+	width: 100px;
+	height: 50px;
+	border-radius: 10px;
+	color: black;
+}
+
+#btn-ds:hover {
+	background: rgb(100, 32, 211);
+	color: white;
+}
